@@ -23,7 +23,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/fraud-detection.git
+git clone https://github.com/ganeshkadam07raud-detection.git
 Install the required dependencies. It is recommended to use a virtual environment:
 
 bash
